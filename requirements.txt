@@ -5,6 +5,7 @@ seaborn
 yfinance
 statsmodels
 requests
+pypdf
 jupyter
 ipykernel
 nbconvert

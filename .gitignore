@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+data/*.csv
+data/mnreports/
+data/wayback_cdx_sa_ls855.json
+# Keep outputs/ (CSVs + figures) tracked so the GitHub repo shows results.
+.mars_api_key
